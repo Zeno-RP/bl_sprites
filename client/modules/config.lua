@@ -34,7 +34,7 @@ return {
     ---@type SpriteParamBase
     default = {
         key = '',
-        colour = {134, 133, 239, 255},
+        colour = {0, 255, 255, 255},
         keyColour = {255, 255, 255, 255},
         shape = '',
         scale = 0.05,
